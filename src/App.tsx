@@ -3,6 +3,8 @@ import './App.css';
 
 const logo = require('./logo.svg');
 
+eval("alert('evil'");
+
 class App extends React.Component {
   render() {
     return (
