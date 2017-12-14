@@ -4,7 +4,7 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 
-eval("function() { console.log(2 + 2)}")
+eval("function() { console.log(2 + 3)}")
 
 ReactDOM.render(
   <App />,
